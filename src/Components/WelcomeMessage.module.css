@@ -1,0 +1,10 @@
+.welcome {
+    font-size: 30px;
+    margin-top: 50px;
+    font-weight: 600;
+    background-color: rgb(72, 118, 72);
+    width:40%;
+    border: 1px solid black;
+    border-radius: 4px;
+    color: rgb(255, 255, 255);
+  }
